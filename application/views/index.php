@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ajax Notes</title>
+	<title>Sticky Notes</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/skeleton.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
